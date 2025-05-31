@@ -1,0 +1,52 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #111;
+    color: #eee;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    text-align: center;
+    padding: 2em 1em;
+}
+
+header h1 {
+    font-size: 3em;
+    margin: 0;
+    color: #f33;
+}
+
+header p {
+    font-size: 1.2em;
+    margin-top: 0.5em;
+    color: #aaa;
+}
+
+section {
+    padding: 2em;
+    border-bottom: 1px solid #333;
+}
+
+h2 {
+    color: #ff5050;
+    margin-bottom: 0.5em;
+}
+
+a {
+    color: #33c;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    background-color: #222;
+    color: #777;
+    padding: 1em;
+}
